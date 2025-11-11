@@ -36,11 +36,11 @@ Para visualizar o projeto localmente, siga os passos:
 
 1.  Clone este repositório:
     ```bash
-    git clone (https://github.com/carlooss89/Traveling-The-World.git)
+    git clone "https://github.com/carlooss89/Traveling-The-World.git"
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd (H:\bruno-rodrigues-dev-web\site)
+    cd "H:\bruno-rodrigues-dev-web\site"
     ```
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
