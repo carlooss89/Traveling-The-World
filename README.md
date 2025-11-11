@@ -36,26 +36,19 @@ Para visualizar o projeto localmente, siga os passos:
 
 1.  Clone este repositório:
     ```bash
-    git clone [https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git](https://github.com/SEU-USUARIO/SEU-REPOSITORIO.git)
+    git clone (https://github.com/carlooss89/Traveling-The-World.git)
     ```
 2.  Navegue até o diretório do projeto:
     ```bash
-    cd SEU-REPOSITORIO
+    cd (H:\bruno-rodrigues-dev-web\site)
     ```
 3.  Abra o arquivo `index.html` no seu navegador de preferência.
 
 ---
 
-## 🔗 Links
-
-* **Repositório:** `[Link para o repositório no GitHub]`
-* **Site (Live Demo):** `[Link para o site no ar (ex: GitHub Pages)]`
-
----
-
 ## 👨‍💻 Autor
 
-Feito por **[Seu Nome]**
+Feito por **Carlos Eduardo**
 
-* **LinkedIn:** `[Seu link do LinkedIn]`
-* **GitHub:** `[Seu link do GitHub]`
+* **💼** `https://www.linkedin.com/in/carlos-eduardo-sousa-silva-35297a1ba/`
+* **📧** `carloseduardosousas18@gmail.com`
