@@ -12,6 +12,7 @@ body {
 .interface {  /* Classe genérica para centralizar o conteúdo */
     max-width: 1280px;
     margin: 0 auto; 
+    padding: 0 4%;
 }
 
 /* Estilo do header */
@@ -34,6 +35,7 @@ header .interface {
 header .logo img {
     max-width: 100px;
 }
+/* Fim do estilo header */
 
 /* Início estilo do menu dinâmico  */
 
@@ -68,7 +70,6 @@ header.rolar .logo .logo-branca {
 header.rolar .logo .logo-preta {
     display: block;
 }
-
 /* Fim estilo do menu dinâmico  */
 
 header .menu-desktop nav ul {
@@ -108,7 +109,6 @@ header .btn-contato button:hover {
 }
 
 /* Estilo do hero */
-
 section.hero-site {
     color: var(--primary-color);
     height: 98vh;  /* 90% da altura da tela, piso falso para induzir o usuário a rolar a página para baixo */
@@ -162,6 +162,7 @@ section.hero-site {
     color: var(--third-color);
     transition: .2s;
 }
+/* Fim do estilo hero */
 
 /* Estilo das vantagens */
 section.vantagens {
@@ -257,9 +258,9 @@ font-weight: 700;
 .contato .icons-contato button:hover i {
     color: var(--third-color);
 }
+/* Fim do estilo botões de contato */
 
 /*  Estilo da sessão hotéis */
-
 section.hoteis{
     color: var(--primary-color);
     height: 600px;
@@ -328,6 +329,7 @@ section.hoteis{
     color: var(--third-color);
     transition: .2s;
 }
+/* Fim do estilo sessão hotéis */
 
 /*  Estilo da sessão como funciona */
 section.como-funciona {
