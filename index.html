@@ -38,7 +38,7 @@
         </section>
 
         <section class="menu-desktop">
-          <nav>
+          <nav aria-label="Navegação principal">
             <ul>
               <li><a href="#"> Início </a></li>
               <li><a href="#"> Destinos </a></li>
@@ -53,6 +53,25 @@
             <button>Contato</button>
           </a>
         </section>
+
+        <!-- Início do menu mobile -->
+        <div class="btn-menu-mob" id="btn-menu-mob" aria-label="Abrir menu de navegação">
+          <div class="line-menumob-1"></div>
+          <div class="line-menumob-2"></div>
+        </div>
+
+        <section class="menu-mobile" id="menu-mobile" aria-label="Menu de navegação mobile">
+          <nav>
+            <ul>
+              <li><a href="#"> Início </a></li>
+              <li><a href="#"> Destinos </a></li>
+              <li><a href="#"> Hotéis </a></li>
+              <li><a href="#"> Passagens </a></li>
+            </ul>
+          </nav>
+        </section>
+        <!-- Fim do menu mobile -->
+
       </div>
     </header>
 
@@ -75,7 +94,7 @@
 
     </section>
 
-    <section class="vantagens">
+    <section class="vantagens" aria-label="Vantagens da plataforma">
         <div class="interface">
 
           <article class="itens-container">
@@ -260,6 +279,8 @@
 
     <!-- Início do scripts de JS -->
     <script src="js/menu.js"></script>
+    <script src="js/btn-menu-mob.js"></script>
     <!-- Fim do scripts de JS -->
+
   </body>
 </html>
